@@ -1,38 +1,44 @@
 
-# Smart Resume Analyzer with AI Feedback
+# Smart Resume Analyzer 🧠📄
 
-This full-stack application analyzes resumes and provides actionable feedback using FastAPI and React/Next.js.
+An AI-powered web application that analyzes resumes and provides job match recommendations using NLP and ML.
 
-## Features
-- Upload resume (PDF/DOCX)
-- Analyze formatting, keywords, structure
-- Match resume against job description
-- Clean UI and responsive feedback
+## 🚀 Features
+- Upload and parse resumes (PDF/DOCX)
+- AI-based skill extraction
+- Job description matching
+- Dashboard insights
+- Downloadable reports
 
-## Tech Stack
-- FastAPI + Python (Backend)
-- Next.js + React (Frontend)
-- scikit-learn for NLP
-- CI/CD with GitHub Actions
-- Deployment-ready (Vercel + Render)
+## 🛠️ Tech Stack
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Flask, Python, REST API
+- **AI:** Spacy, NLTK, Scikit-learn
+- **Deployment:** Render / GitHub Pages
 
-## Local Setup
+## 📦 How to Run Locally
+1. Clone the repository
+   ```bash
+   git clone https://github.com/FAALENADI/smart-resume-analyzer.git
+   cd smart-resume-analyzer
+   ```
 
-### Backend
-```bash
-cd backend
-python -m venv env
-source env/bin/activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-```
+2. Set up Python backend
+   ```bash
+   cd backend
+   pip install -r requirements.txt
+   python app.py
+   ```
 
-### Frontend
-```bash
-cd frontend
-npm install
-npm run dev
-```
+3. Run React frontend
+   ```bash
+   cd frontend
+   npm install
+   npm start
+   ```
 
-## License
-MIT
+## 📄 License
+MIT License
+
+## 🧑‍💼 Author
+Fawaz Al Enadi | [LinkedIn](https://www.linkedin.com/in/fawaz-al-enadi)
