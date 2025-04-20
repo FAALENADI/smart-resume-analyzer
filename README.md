@@ -41,4 +41,4 @@ An AI-powered web application that analyzes resumes and provides job match recom
 MIT License
 
 ## 🧑‍💼 Author
-Fawaz Al Enadi | [LinkedIn](https://www.linkedin.com/in/fawaz-al-enadi)
+Fawaz Al Enadi | [LinkedIn](https://www.linkedin.com/in/fawaz-alenadi)
