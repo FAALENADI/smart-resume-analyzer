@@ -72,6 +72,9 @@ npm run dev
 ## 📄 License
 MIT License
 
+## Smart Resume Analyzer  
+📝 Version: **v0.1.0** (Pre-release)
+
 ## 🧑‍💼 Author  
 **Fawaz Al Enadi**  
 [GitHub](https://github.com/FAALENADI) | [LinkedIn](https://www.linkedin.com/in/fawaz-alenadi)
