@@ -3,11 +3,12 @@
   "name": "resume-analyzer-frontend",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "export": "next export"
+},
   "dependencies": {
     "axios": "^1.4.0",
     "next": "^14.0.0",
