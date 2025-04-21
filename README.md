@@ -19,8 +19,7 @@ Use tools like [Postman](https://www.postman.com/) or your frontend to interact 
 
 ### 🔗 Frontend UI  
 Hosted on Vercel:  
-➡️ **[Visit the Web App](https://smart-resume-analyzer-frontend.vercel.app/)**  
-*(replace with your actual Vercel domain once confirmed)*
+➡️ **[Visit the Web App](https://smart-resume-analyzer-theta.vercel.app/)**  
 
 ---
 
